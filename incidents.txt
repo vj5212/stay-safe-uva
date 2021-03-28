@@ -1,0 +1,984 @@
+FOUND PROPERTY-1215 Lee St                          202100007720/69
+Reported security confiscated contraband from a patient                  
+RPT: 0637 03-01-2021    OCC: 0600 03-01-21 to 0637 03-01-21
+Case Status: Suspended
+
+HIT AND RUN-1215 Lee St                          202100007757/65
+Reported a vehicle parked was struck by another causing damage who left the scene                  
+RPT: 1236 03-01-2021    OCC: 1100 02-27-21 to 1130 02-27-21
+Case Status: Active
+
+HARASSING EMAIL-2145 Evans Cir                         202100007782/41
+Reported an unwanted email report for documentation purposes                    
+RPT: 1506 03-01-2021    OCC: 2204 02-28-21 to 2204 02-28-21
+Case Status: Transferred to Other Agency 
+
+LARCENY-1540 Jefferson Park Ave                         202100007783/31
+Reported a stolen saddlebag with contents and a bike helmet                   
+RPT: 1536 03-01-2021    OCC: 1300 02-28-21 to 1700 02-28-21
+Case Status: Active
+
+PROPERTY DAMAGE-1101 Millmont St                    202100007793/32
+Reported damage to a transportation fleet bus wheel                   
+RPT: 1720 03-01-2021    OCC: 0000 02-24-21 to 1720 03-01-21
+Case Status: Suspended
+
+TRESPASS-160 Peregory Ln                         202100007903/65
+Reported security confiscated contraband from a patient                  
+RPT: 1226 03-02-2021    OCC: 1225 03-02-21 to 1225 03-02-21
+Case Status: Active
+
+DRIVERS EXCHANGE-1815 Stadium Rd                      202100008024/44
+Reported a drivers exchange of information                
+RPT: 0834 03-03-2021    OCC: 0834 03-03-21 to 0834 03-03-21
+Case Status: Suspended
+
+LOST PROPERTY -1100 Bayly Dr                          202100008047/63
+Reported a tool bag containing school supplies.                 
+RPT: 1525 03-03-2021    OCC: 2200 02-25-21 to 1700 02-26-21
+Case Status: Active
+
+ASSIST CITIZEN/MENTAL/ECO-1215 Lee St                      202100008060/26
+Reported an officer initiated ECO on an individual in crisis
+RPT: 1912 03-03-2021    OCC: 1912 03-03-21 to 0018 03-04-21
+Case Status: Active
+
+TRAFFIC ACCIDENT-265 Hereford                         202100008142/44
+Reported a traffic accident             
+RPT: 1130 03-04-2021    OCC: 1130 03-04-21 to 1149 03-04-21
+Case Status: Suspended
+
+ASSAULT-400 Emmet St S LVL 3AR                         202100008151/26
+Reported a verbal and physical altercation between two individuals. 
+RPT: 1533 03-04-2021    OCC: 1530 03-04-21 to 1602 03-04-21
+Case Status: Active
+
+ASSIST CITIZEN- MEDICAL-479 Copeley Rd                     202100008159/17
+Reported assisting citizen who was having a medical emergency. 
+RPT: 1653 03-04-2021    OCC: 1645 03-04-21 to 1658 03-04-21
+Case Status: Active
+
+ASSAULT-1215 Lee St                                    202100008196/23
+Reported assisting hospital staff with mildly combative patient, no charges pending
+RPT: 0020 03-05-2021    OCC: 0000 03-05-21 to 0000 03-05-21
+Case Status: Suspended
+
+TRAFFIC STOP/ FIELD INVESTIGATION-1500 Gordon Ave             202100008212/25
+Reported a traffic stop on an individual on moped traveling recklessly
+RPT: 0228 03-05-2021    OCC: 0228 03-05-21 to 0228 03-05-21
+Case Status: Suspended
+
+ASSAULT-1215 Lee St                                      202100008213/23
+Reported assisting hospital staff with mildly combative patient, no charges pending
+RPT: 0230 03-05-2021    OCC: 0200 03-05-21 to 0200 03-05-21
+Case Status: Suspended
+
+ASSAULT-1215 Lee St                                      202100008225/23
+Reported assisting hospital staff with mildly combative patient, no charges pending
+RPT: 0520 03-05-2021    OCC: 0500 03-05-21 to 0500 03-05-21
+Case Status: Suspended
+
+DRIVERS EXCHANGE-1815 Stadium Rd                    202100008243/61
+Reported a drivers exchange of information             
+RPT: 0936 03-05-2021    OCC: 0936 03-05-21 to 0936 03-05-21
+Case Status: Suspended
+
+ASSIST AGENCY/ FIELD INVESTIGATION-510 Edgemont Rd             202100008244/61
+Reported assisting rescue with individual having cardiac issues
+RPT: 1009 03-05-2021    OCC: 1009 03-05-21 to 1009 03-05-21
+Case Status: Suspended
+
+PROPERTY DAMAGE-1215 Lee St                         202100008245/55
+Reported damage to light fixture due to poor electrical connection from light ballast and sockets
+RPT: 1022 03-05-2021    OCC: 1021 03-05-21 to 1022 03-05-21
+Case Status: Suspended
+
+ASSIST CITIZEN/ FIELD INVESTIGATION-1215 Lee St                 202100008247/55
+Reported assisting security with belligerent individual 
+RPT: 1123 03-05-2021    OCC: 1123 03-05-21 to 1123 03-05-21
+Case Status: Suspended
+
+DRIVERS EXCHANGE-117 11TH ST SW                         202100008251/55
+Reported a drivers exchange of information             
+RPT: 1213 03-05-2021    OCC: 1213 03-05-21 to 1213 03-05-21
+Case Status: Suspended
+
+HARASSMENT-2304 Ivy Rd                             202100008257/61
+Reported harassment over social media towards an individual
+RPT: 1316 03-05-2021    OCC: 1240 03-05-21 to 1240 03-05-21
+Case Status: Active
+
+FOUND PROPERTY-575 Alderman Rd                         202100008258/55
+Reported found three key fobs with various key chains attached
+RPT: 1324 03-05-2021    OCC: 1324 03-05-21 to 1324 03-05-21
+Case Status: Suspended
+
+IDENTITY FRAUD-499 Seymour Rd                         202100008259/71
+Reported an individual being scammed by false pretense, personal information was compromised 
+RPT: 1409 03-05-2021    OCC: 1259 03-05-21 to 1410 03-05-21
+Case Status: Active
+
+TRAFFIC STOP/ FIELD INVESTIGATION-248 McCormick Rd             202100008289/66
+Reported a traffic stop on an individual with no headlights 
+RPT: 2127 03-05-2021    OCC: 2127 03-05-21 to 2127 03-05-21
+Case Status: Suspended
+
+TRAFFIC STOP/ TEMPORARY DETENTION-1170 Emmet St N             202100008293/66
+Reported a traffic stop on an individual with no headlights, SFST performed/no impairment found
+RPT: 2147 03-05-2021    OCC: 2147 03-05-21 to 2147 03-05-21
+Case Status: Suspended
+
+LOST PROPERTY-180 McCormick Rd                         202100008295/34
+Reported lost wallet, currency, bank cards, insurance card
+RPT: 1324 03-05-2021    OCC: 1324 03-05-21 to 1324 03-05-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL, UNDERAGE POSSESSION-561 McCormick Rd        202100008301/41
+Reported assisting an overly intoxicated underage individual, possession of fictitious ID 
+RPT: 2230 03-05-2021    OCC: 2230 03-05-21 to 2230 03-05-21
+Case Status: Suspended
+
+TRAFFIC STOP/FIELD INVESTIGATION -2304 Ivy Rd                  202100008355/12
+Reported traffic stop for expired registration gave warning.  
+RPT: 1026 03-06-2021    OCC: 1026 03-06-21 to 1026 03-06-21
+Case Status: Suspended
+
+ASSIST CITIZEN/FIELD INVESTIGATION -450 Whitehead Rd              202100008366/61
+Reported an individual feeling faint.  
+RPT: 1352 03-06-2021    OCC: 1352 03-06-21 to 1352 03-06-21
+Case Status: Suspended
+
+ASSAULT -1215 Lee St                             202100008369/55
+Reported a past assault by a patient 
+RPT: 1443 03-06-2021    OCC: 1430 03-06-21 to 1443 03-06-21
+Case Status: Suspended
+
+ASSIST CITIZEN -400 Emmet St                         202100008370/71
+Reported contact with individual about obtaining a protective order 
+RPT: 1449 03-06-2021    OCC: 1352 03-06-21 to 1437 03-06-21
+Case Status: Active
+
+TRAFFIC STOP/TEMPORARY DETENTION-115 Madison Ln                202100008387/41
+Reported a temporary detention of individual during traffic stop
+RPT: 1811 03-06-2021    OCC: 1811 03-06-21 to 1811 03-06-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL, UNDERAGE POSSESSION-189 Culbreth Road        202100008390/41
+Reported assisting an overly intoxicated and underage individual that fell off of a balcony 
+RPT: 1832 03-06-2021    OCC: 1832 03-06-21 to 1832 03-06-21
+Case Status: Active
+
+PROPERTY DAMAGE -380 Crispell Dr                    202100008393/35
+Reported contact with individual about obtaining a protective order 
+RPT: 1952 03-06-2021    OCC: 1945 03-06-21 to 2037 03-06-21
+Case Status: Active
+
+SEXUAL ASSAULT-Unknown location                        202100008412/41
+Reported a past sexual assault
+RPT: 0058 03-07-2021    OCC: 0000 01-01-19 to 0000 03-07-21
+Case Status: Active
+
+ASSIST CITIZEN/MEDICAL, UNDERAGE POSSESSION-436 McCormick Rd        202100008419/72
+Reported assisting an overly intoxicated and underage individual
+RPT: 0152 03-07-2021    OCC: 0152 03-07-21 to 0224 03-07-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL, UNDERAGE POSSESSION-432 McCormick Rd        202100008421/72
+Reported assisting an overly intoxicated and underage individual
+RPT: 0227 03-07-2021    OCC: 0227 03-07-21 to 0309 03-07-21
+Case Status: Suspended
+
+TRAFFIC STOP/FIELD INVESTIGATION-Elliewood Ave                 202100008428/21
+Reported traffic stop on individuals blocking highway, warning issued 
+RPT: 0328 03-07-2021    OCC: 0328 03-07-21 to 0328 03-07-21
+Case Status: Suspended
+
+FOUND PROPERTY/FIELD INVESTIGATION-1215 Le St                 202100008561/61
+Reported an identification document recovered and returned to its owner 
+RPT: 0853 03-08-2021    OCC: 0853 03-08-21 to 0853 03-08-21
+Case Status: Suspended
+
+ASSAULT-2304 Ivy Rd                            202100008580/61
+Reported a past sexual assault
+RPT: 1055 03-08-2021    OCC: 1000 03-08-21 to 1000 03-08-21
+Case Status: Active
+
+ASSAULT/VANDALISM-1215 Lee St                        202100008604/41
+Reported a patient damaged hospital property and verbally assaulted, threatened staff 
+RPT: 1537 03-08-2021    OCC: 1537 03-08-21 to 1537 03-08-21
+Case Status: Active
+
+TRAFFIC STOP/FIELD INVESTIGATION-Lewis MTN Rd                 202100008608/66
+Reported a traffic stop for failure to wear helmet while operation of a moped 
+RPT: 1647 03-08-2021    OCC: 1647 03-08-21 to 1647 03-08-21
+Case Status: Suspended
+
+VANDALISM- 1210 Lee St                             202100008631/41
+Reported a vehicle parked and unattended found with damage upon owner return 
+RPT: 1937 03-08-2021    OCC: 1200 03-06-21 to 2359 03-06-21
+Case Status: Active
+
+MISC./NON-CRIMINAL/OFFENSIVE FLYERS- 14 E Lawn                202100008640/66
+Reported flyers found involving police
+RPT: 2241 03-08-2021    OCC: 1700 03-06-21 to 2343 03-06-21
+Case Status: Active
+
+TRAFFIC STOP/ FIELD INVESTIGATION-1409 Gordon Ave             202100008685/25
+Reported failure to stop at stop sign 
+RPT: 0328 03-09-2021    OCC: 0328 03-09-21 to 0328 03-09-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL/FIELD IVESTIGATION- 20 Bonnycastle Dr         202100008730/55
+Reported individual with COVID like symptoms
+RPT: 1136 03-09-2021    OCC: 1136 03-09-2021 to 1136 03-09-2021
+Case Status: Suspended
+
+DRUNK IN PUBLIC-1210 Lee Street                         202100008838/41
+Reported individual stumbling and falling over 
+RPT: 2216 03-09-2021    OCC: 2216 03-09-21 to 2222 03-09-21
+Case Status: Arrest
+
+DISORDER/TEMPORARY DETENTION- 2304 Ivy Rd                202100008685/11
+Reported disorder 
+RPT: 0948 03-10-2021    OCC: 0948 03-10-21 to 0948 03-10-21
+Case Status: Suspended
+
+DISORDERLY CONDUCT- 2304 Ivy Rd                        202100008904/11
+Reported individuals engaging in a verbal altercation in public. 
+RPT: 0948 03-10-2021    OCC: 0948 03-10-2021 to 0948 03-10-2021
+Case Status: Active
+
+LOST PROPERTY- 525 McCormick Rd                        202100008915/69
+Reported individual lost black/grey Northface jacket
+RPT: 1055 03-10-2021    OCC: 0800 03-08-2021 to 0800 03-08-2021
+Case Status: Active
+
+ASSIST AGENCY- 409 McCormick Rd                        202100008916/69
+Reported hazardous chemical spill 
+RPT: 1119 03-10-2021    OCC: 1122 03-10-21 to 1122 03-10-21
+Case Status: Active
+
+TRESPASS- 1001 Emmet St                            202100008920/46
+Reported car in parking lot for multiple days 
+RPT: 1155 03-10-2021    OCC: 1328 03-10-21 to 1122 03-10-21
+Case Status: Active
+
+DRIVER EXCHANGE- 1210 Lee St                        202100009058/44
+Reported individuals exchanging insurance information 
+RPT: 0855 03-11-2021    OCC: 0855 03-11-21 to 0855 03-11-21
+Case Status: Active
+
+ASSIST CITIZEN- MEDICAL- 485 McCormick Rd                 202100009066/33
+Reported assist rescue with individual who fell 
+RPT: 1215 03-11-2021    OCC: 1100 03-11-21 to 1100 03-11-21
+Case Status: Active
+
+SUSPICIOUS ACTIVITY- 1826 University Ave                202100009069/65
+Reported an individual tampering with security cameras     
+RPT: 1211 03-11-2021    OCC: 2100 03-09-21 to 2100 03-09-21
+Case Status: Active
+
+VANDALISM- 123 Emmet St N                        202100009073/65
+Reported graffiti in the Emmet/ Ivy Garage
+RPT: 1511 03-11-2021    OCC: 1220 03-11-21 to 1220 03-11-21
+Case Status: Active
+
+STATE VEHICLE CRASH- 1101 Millmont                    202100009074/33
+Reported vehicle struck vehicle, damage to driver side mirror
+RPT: 0330 03-11-2021    OCC: 0315 03-11-21 to 1315 03-11-21
+Case Status: Active
+
+PETIT LARCENY- 1215 Lee St                        202100009080/64
+Reported theft of individuals wallet with currency, bank cards, store cards, gift cards, and VA driver’s license
+RPT: 1633 03-11-2021    OCC: 0700 03-11-21 to 1815 03-11-21
+Case Status: Active
+
+ASSIST CITIZEN/MENTAL- 1210 Lee St                    202100009268/72
+Reported assisting an individual in crisis to the UVA ER for treatment
+RPT: 0056 03-13-2021    OCC: 0056 03-13-21 to 0156 03-13-21
+Case Status: Suspended
+
+FOUND PROPERTY- 472 Faulkner Way                    202100009341/25
+Reported found wallet with currency, various bank cards, store membership cards, gift cards, VA driver’s license
+RPT: 1528 03-13-2021    OCC: 1528 03-13-21 to 1629 03-13-21
+Case Status: Active
+
+VANDALISM- 1210 Lee St                            202100009345/42
+Reported damage to drivers side rear bumper of vehicle from a hit-and-run in a parking garage
+RPT: 1625 03-13-2021    OCC: 0930 03-12-21 to 1800 03-12-21
+Case Status: Suspended
+
+TRAFFIC STOP/FIELD INVESTIGATION- 525 McCormick Rd            202100009362/42
+Reported a traffic stop for individual traveling in the wrong direction, warning given
+RPT: 1907 03-13-2021    OCC: 1907 03-13-21 to 1907 03-13-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL, UNDERAGE POSSESSION- 20 Bonnycastle Dr        202100009370/42
+Reported assisting an underage, overly intoxicated individual
+RPT: 2116 03-13-2021    OCC: 2100 03-13-21 to 2100 03-13-21
+Case Status: Suspended
+
+ASSIST AGENCY/BACKUP- 1215 Lee St                    202100009383/42
+Reported assisting Maricopa County Sheriffs with evidence collection 
+RPT: 2317 03-13-2021    OCC: 2317 03-13-21 to 2350 03-13-21
+Case Status: Transferred to Other Agency
+
+LARCENY/OTHER- 565 McCormick Rd                        202100009395/47
+Reported theft of a traffic control device 
+RPT: 0131 03-14-2021    OCC: 0000 03-07-21 to 0131 03-07-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL, UNDERAGE POSSESSION- Dell Courts        202100009810/69
+Reported unconscious intoxicated and underage individual                 
+RPT: 0302 03-18-2021    OCC: 0204 03-18-21 to 0204 03-18-21
+Case Status: Suspended
+
+IDENTITY FRAUD- 4 E Pavilion                        202100009856/100
+Reported identity fraud 
+RPT: 1330 03-18-2021    OCC: 0000 02-28-21 to 0000 02-28-21
+Case Status: Active
+
+LARCENY- 1222 Jefferson Park Ave                    202100009859/44
+Reported theft of candles and cell phone accessories from office 
+RPT: 1407 03-18-2021    OCC: 1407 03-12-21 to 1407 03-15-21
+Case Status: Active
+
+MISC NON-CRIMINAL- 211 Emmet St S                            202100009867/48
+Reported damage to broken light pole related to past traffic accident  
+RPT: 1604 03-18-2021    OCC: 1515 03-18-21 to 1515 03-18-21
+Case Status: Active
+
+TRAFFIC STOP/TEMPORARY DETENTION- Jefferson Park Ave            202100009874/48
+Reported temporary detention of individual during traffic stop, failed to yield to pedestrians on crosswalk                     
+RPT: 1658 03-18-2021    OCC: 1658 03-18-21 to 1658 03-18-21
+Case Status: Suspended
+
+FRAUD- 400 McCormick Rd                                    202100009899/29
+Reported assisting an individual reporting identity theft 
+RPT: 1924 03-18-2021    OCC: 1213 03-18-21 to 2000 03-18-21
+Case Status: Active
+
+TRAFFIC STOP/TEMPORARY DETENTION- Emmet/ Stadium Rd            202100009900/26
+Reported temporary detention of individual during traffic stop, failed to yield to highway sign                     
+RPT: 1936 03-18-2021    OCC: 1936 03-18-21 to 1936 03-18-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MENTAL/ FIELD CONTACT- 1215 Lee St            202100009965/69
+Reported assisting an individual with impaired cognition, escorted from hospital to hotel
+RPT: 0512 03-19-2021    OCC: 0512 03-19-21 to 0512 03-19-21
+Case Status: Suspended
+
+LOST PROPERTY- 1215 Lee St                        202100009984/44
+Reported lost Samsung cellphone and eyeglasses                
+RPT: 0949 03-19-2021    OCC: 0000 02-25-21 to 1029 03-19-21
+Case Status: Suspended
+
+DOMESTIC ASSAULT- 1215 Lee St                        202100009998/44
+Reported parent slapping adolescent child on hand
+RPT: 1149 03-19-2021    OCC: 1149 03-19-21 to 1226 03-19-21
+Case Status: Suspended
+
+PETIT LARCENY- 1210 Lee St                        202100010029/64
+Reported theft of a firearm from a vehicle                
+RPT: 1747 03-19-2021    OCC: 1000 03-19-21 to 1740 03-19-21
+Case Status: Active
+
+SIMPLE ASSAULT- 1215 Lee St                        202100010041/64
+Reported patient striking hospital staff in face, no charges pending 
+RPT: 1901 03-19-2021    OCC: 1900 03-19-21 to 1923 03-19-21
+Case Status: Active
+
+ASSIST CITIZEN/MENTAL- 25 Hancock Dr                    202100010061/46
+Reported assisting an individual with suicidal ideations
+RPT: 2359 03-19-2021    OCC: 2230 03-19-21 to 2321 03-19-21
+Case Status: Active
+
+ASST.CITIZEN/MEDICAL/UNDERAGE POSS.- 420 McCormick Rd                  202100010062/69
+Reported overly intoxicated underage individual
+RPT: 0034 03-20-2021    OCC: 0004 03-20-21 to 0034 03-20-21
+Case Status: Suspended
+
+ASSIST CITIZEN/TDO- 1215 Lee St                        202100010124/44
+Reported TDO paperwork service and assist in escorting individual for transport 
+RPT: 1143 03-20-2021    OCC: 1129 03-20-21 to 1248 03-20-21
+Case Status: Suspended
+
+FOUND PROPERTY- 1215 Lee St                        202100010145/48
+Reported found painted jar and baggies with green leafy substance
+RPT: 1827 03-20-2021    OCC: 1547 03-20-21 to 1626 03-20-21
+Case Status: Active
+
+TEMPORARY DETENTION- 115 Madison Ln                    202100010153/74
+Reported executive order violation of 70+ individuals
+RPT: 1715 03-20-2021    OCC: 1715 03-20-21 to 1715 03-20-21
+Case Status: Suspended
+
+HARRASSMENT- 2304 Ivy Rd                               202100010318/102
+Reported an individual were sent threatening messages via social media 
+RPT: 1030 03-22-2021    OCC: 1556 03-18-21 to 1556 03-18-21
+Case Status: Active
+
+FORCIBLE RAPE- 561 McCormick Rd 201                      202100010329/101
+Reported an incident of forcible rape
+RPT: 1118 03-22-2021    OCC: 0000 03-18-21 to 1200 03-19-21
+Case Status: Active
+
+TRAFFIC STOP FIELD INVESTIGATION- 130 Culbreth Rd              202100010355/42
+Reported an individual not wearing a helmet while operating a moped 
+RPT: 1618 03-22-2021    OCC: 1618 03-22-21 to 1618 03-22-21
+Case Status: Suspended
+
+WIRE FRAUD- 432 McCormick Rd 260                         202100010377/41
+Reported wire fraud via social media 
+RPT: 2021 03-22-2021    OCC: 0030 03-17-21 to 2021 03-22-21
+Case Status: Active 
+
+LOST PROPERTY- 1815 Stadium Rd                           202100010434/55
+Reported an individual lost their Apple Airpods while on public transportation  
+RPT: 0923 03-23-2021    OCC: 0630 03-23-21 to 0730 03-23-21
+Case Status: Active
+
+TRESPASSING- 1215 Lee St                               202100010492/42
+Reported an individual was temporarily detained for trespassing   
+RPT: 2257 03-23-2021    OCC: 2257 03-23-21 to 2257 03-23-21
+Case Status: Arrest
+
+VANDALISM- 465 Faulkner Way                        202100010505/47
+Reported damage to a bus stop window pane  
+RPT: 0300 03-24-2021    OCC: 0000 03-24-21 to 0300 03-24-21
+Case Status: Suspended
+
+WARRANT SERVICE- 1215 Lee St                           202100010507/71
+Reported assist multiple agencies in the service of multiple warrants, with temporary detention   
+RPT: 0316 03-24-2021    OCC: 0316 03-24-21 to 0616 03-24-21
+Case Status: Arrest
+
+ASSAULT- 1222 Jefferson Park Ave                           202100010543/61
+Reported a past report of child abuse   
+RPT: 1120 03-24-2021    OCC: 2130 03-23-21 to 2130 03-23-21
+Case Status: Active
+
+ASSIST CITIZEN/MEDICAL - 918 Emmet St                     202100010559/25
+Reported assist citizen with possible overdose   
+RPT: 1533 03-24-2021    OCC: 1533 03-24-21 to 1653 03-24-21
+Case Status: Active
+
+ASSIST AGENCY/INCIDENT- 400 Brandon Ave.                202100010679/63
+Reported call to assist rescue 
+RPT: 0943 03-25-2021    OCC: 0943 03-25-21 to 0953 03-25-21
+Case Status: Suspended
+
+ASSIST AGENCY/INCIDENT- 400 Brandon Ave.                202100010689/63
+Reported call to assist rescue 
+RPT: 1149 03-25-2021    OCC: 1149 03-25-21 to 1154 03-25-21
+Case Status: Suspended
+
+DRIVER EXCHANGE- 1815 Stadium Rd                    202100010722/74
+Reported blue Nissan backed into silver Honda at stop sign 
+RPT: 1725 03-25-2021    OCC: 1725 03-25-21 to 1725 03-25-21
+Case Status: Suspended
+
+FOUND PPROPERTY- 1215 Lee St                           202100010746/34
+Reported candy container containing green leafy substance
+RPT: 2025 03-25-2021    OCC: 2010 03-25-21 to 2100 03-25-21
+Case Status: Active
+
+ASSAULT-1215 Lee St                            202100004156/25
+Reported a past assault on a nurse by patient   
+RPT: 0509 02-01-2021        OCC: 0343 02-01-2021 to 0348 02-01-2021
+Case Status: Suspended
+
+LARCENY-1215 Lee St                            202100004203/62
+Reported theft of yellow colored metal ring from a building
+RPT: 1355 02-01-2021        OCC: 0900 02-01-2021 to 1100 02-01-2021
+Case Status: Suspended
+
+SEXUAL EXPLOTATION OF MINOR/STALKING -301 15th st NW Apt 3017        202100004206/22
+Reported sexual exploitation/pornography of minors over a social media App
+RPT: 1441 02-01-2021        OCC: 2000 01-30-2021 to 2000 01-30-2021
+Case Status: Active
+
+ASSAULT -1215 Lee St                            202100004249/26
+Reported medical staff pushed by patient
+RPT: 2218 02-01-2021        OCC: 2205 02-01-2021 to 2252 02-01-2021
+Case Status: Active
+
+VANDALISM-420 McCormick Rd                           202100004443/55
+Reported intentional damage to the waste water testing device at Page House  
+RPT: 0826 02-03-2021    OCC: 1530 02-02-21 to 0744 02-03-21
+Case Status: Active
+
+ASSIST CITIZEN/MISC- 1215 Lee St                        202100004520/25
+Reported patient pistol being confiscated into safekeeping
+RPT: 0022 02-04-21        OCC: 0022 0204/21 to 0045 02/04/21
+Caste Status: Suspended
+
+TEMPORARY DETENTION-14 E Lawn                            202100004526/23
+Reported curfew violation
+RPT: 0103 02-04-2021        OCC: 0103 02-04-2021 to 0103 02-04-2021
+Case Status: Suspended
+
+LOITERING/FIELD INVESTIGATION- 500 Edgemont                    202100004533/39
+Reported suspicious vehicle parked next to UVA warehouse
+RPT: 0134 02-04-2021        OCC: 0134 02-04-2021 to 0134 02-04-2021
+Case Status: Suspended
+
+ASSIST CITIZEN/FIELD CONTACT- 1404 Jefferson Park                 202100004541/29
+Reported citizen medical in Charlottesville jurisdiction, transferred to Charlottesville Police
+RPT: 0338 02-04-2021        OCC: 0338 02-04-2021 to 0338 02-04-2021
+Case Status: Suspended
+
+HIT AND RUN- 1210 Lee St                            202100004614/35
+Reported witnessed a hit and run occur in parking lot
+RPT: 1731 02-04-2021        OCC: 1600 02-04-2021 to 1615 02-04-202
+Case Status: Active
+
+SUSPICIOUS CIRCUMSTANCE- 2304 Ivy Rd                        202100004707/44
+Reported that HR received an individual’s information along with a strange marked photograph through mail and/or email
+RPT: 1005 02-05-2021        OCC: 0918 02-04-21 to 1005 02-05-21
+Case Status: Active     
+
+TRAFFIC ACCIDENT- 1101 Millmont St                        202100004712/63
+Reported vehicle struck garage door while backing out of garage
+RPT: 1129 02-05-2021        OCC: 1129 02-05-21 to 1129 02-05-21
+Case Status: Suspended    
+    
+RECOVER STOLEN PROPERTY- 20 S Lawn                        202100004771/74
+Reported stolen bicycle is located by owner  
+RPT: 2202 02-05-2021    OCC: 0000 02-05-18 to 2202 02-05-18
+Case Status: Suspended
+
+ASSIST CITIZEN MEDICAL/LIQUOR LAW VIOLATION/FAKE ID- 435 Tree House Dr        202100004791/36
+Reported assisting and transporting an overly intoxicated individual to the hospital, who was also in possession of false identification. 
+RPT: 0638 02-06-2021        OCC: 0157 02-06-21 to 0230 02-06-21
+Case Status: Suspended
+
+ROBBERY/ TRESSPASS- Enslaved Laborers Memorial                    202100004792/69
+Reported an attempted robbery 
+RPT: 0400 02-06-2021        OCC: 0206 02-06-21 to 0206 02-06-21
+Case Status: Cleared Exceptionally
+
+SEX OFFENSE/ FORCIBLE RAPE- 20 BonnyCastle Dr                    202100004795/36
+Reported assisting citizen who felt as though they had been drugged and raped. 
+RPT: 0650 02-06-2021        OCC: 0100 02-06-21 to 0315 02-06-21
+Case Status: Unfounded
+
+ASSIST CITIZEN MEDICAL-1215 Lee St                        202100004798/31
+Reported nurse was accidentally struck by a patient in the neck. 
+RPT: 0642 02-06-2021        OCC: 0430 02-06-21 to 0505 02-06-21
+Case Status: Suspended
+
+FOUND PROPERTY- 115 Madison Ln                             202100004800/65
+Reported a found cell phone, which was placed into evidence for safekeeping 
+RPT: 0811 02-06-2021        OCC: 1615 02-06-21 to 1615 02-06-21
+Case Status: Active 
+
+FOUND PROPERTY- 1240 Lee St                             202100004853/74
+Reported found handbag, various items inside
+RPT: 1827 02-06-2021        OCC: 0800 02-06-21 to 1700 02-06-21
+Case Status: Suspended 
+
+ASSAULT- 1215 Lee St                             202100004881/46
+Reported a nurse getting struck with a closed fist by a patient. 
+RPT: 2159 02-06-2021        OCC: 1900 02-06-21 to 2100 02-06-21
+Case Status: Active
+    
+FOUND PROPERTY-1215 Lee St                            202100004893/56
+Reported found leafy green like substance in Hospital
+RPT: 0300 02-07-2021    OCC: 2357 02-06-21 to 0037 02-07-21
+Case Status: Suspended
+
+ASSIST CITIZEN/ MEDICAL, UNDERAGE POSSESSION-248 McCormick Rd            202100005020/46
+Reported individual fell off scooter, hit head and was unconscious
+RPT: 2230 02-07-2021    OCC: 2225 02-07-21 to 2225 02-07-21
+Case Status: Active
+    
+LARCENY-450 McCormick Rd                            202100005065/65
+Reported the theft of a white Swinn Beach Cruiser bicycle
+RPT: 0827 02-08-2021    OCC: 1000 02-07-21 to 0827 02-08-21
+Case Status: Active
+
+FOUND PROPERTY- 20 S Lawn                            202100005098/46
+Reported a found plastic sea turtle necklace 
+RPT: 1642 02-08-2021    OCC: 1642 02-08-21 to 1642 02-08-21
+Case Status: Active
+    
+LARCENY- 1215 Lee St                                         202100005149/25
+Reported theft of currency from employee purse in amount of seventy two dollars from 4th floor
+RPT: 0145 02-09-2021    OCC: 1800 02-06-18 to 0730 02-07-21
+Case Status: Suspended
+
+PRESCRIPTION FRAUD- 20 S Lawn                            202100005205/48
+Reported theft of schedule IV prescription medication under false pretenses  
+RPT: 1021 02-09-2021    OCC: 2005 01-10-18 to 1459 02-03-21
+Case Status: Active
+    
+EXECUTIVE ORDER VIOLATION/FI- 395 McCormick Rd                          202100005307/25
+Reported individuals in violation of Virginia COVID-19 curfew law  
+RPT: 0358 02-10-2021    OCC: 0358 02-10-21 to 0358 02-10-21
+Case Status: Suspended
+
+DOMESTIC ASSAULT- 117 11TH ST SW                        202100005346/61
+Reported assault against a juvenile with cognitive impairments 
+RPT: 0958 02-10-2021    OCC: 0958 02-10-21 to 1020 02-10-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL- 10 Bonnycastle Dr                    202100005361/62
+Reported assisting individual with shoulder injury
+RPT: 1153 02-10-2021    OCC: 1150 02-10-21 to 1150 02-10-21
+Case Status: Suspended
+
+VANDALISM- 123 Emmet St N                            202100005363/55
+Reported vandalism/defacement to stairwell and walls of a parking garage  
+RPT: 1224 02-10-2021    OCC: 1200 02-09-21 to 1130 02-10-21
+Case Status: Active
+
+ASSIST CITIZEN/MEDICAL- 1215 Lee St                        202100005399/66
+Reported patient accidentally striking medical staff with arm
+RPT: 2254 02-10-2021    OCC: 2254 02-10-21 to 0008 02-11-21
+Case Status: Suspended
+    
+EXECUTIVE ORDER VIOLATION/FI- 248 McCormick Rd                     202100005416/23
+Reported individuals in violation of Virginia COVID-19 curfew law  
+RPT: 0132 02-11-2021    OCC: 0132 02-11-21 to 0132 02-11-21
+Case Status: Suspended
+
+EXECUTIVE ORDER VIOLATION/ FI- 248 McCormick Rd                      202100005418/25
+Reported individuals in violation of Virginia COVID-19 curfew law  
+RPT: 0141 02-11-2021    OCC: 0141 02-11-21 to 0141 02-11-21
+Case Status: Suspended
+
+ATTEMPTED THEFT FROM VEHICLE- 64 Lambeth                    202100005420/72
+Reported individual pulling door handles on vehicles  
+RPT: 0141 02-11-2021    OCC: 0141 02-11-21 to 0209 02-11-21
+Case Status: Suspended
+
+FIRES/NOT ARSON- 600 Massie Rd                              202100005424/72
+Reported electrical box fire, damage to box due to faulty wires 
+RPT: 0234 02-11-2021    OCC: 0234 02-11-21 to 0309 02-11-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL- 409 McCormick Rd                      202100005450/62
+Reported assisting individual feeling unwell 
+RPT: 1004 02-11-2021    OCC: 1003 02-11-21 to 1009 02-11-21
+Case Status: Suspended
+
+LARCENY/OTHER- 30 Bonnycastle Dr                          202100005454/62
+Reported theft of bicycle and bicycle lock 
+RPT: 1052 02-11-2021    OCC: 1400 11-25-20 to 1100 02-07-21
+Case Status: Suspended
+
+IMPROPER DISPOSAL/SMOKE DETECTOR-62 Monroe Hill Rd                 202100005473/55 
+Reported two smoke detectors beeping, found in trash can                         
+RPT: 1536 02-11-2021  OCC: 1536 02-11-21 to 1605 02-11-21                      
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL- 1215 Lee St                          202100005476/41
+Reported individual inintentionally pushing medical staff  
+RPT: 1615 02-11-2021    OCC: 1615 02-11-21 to 1615 02-11-21
+Case Status: Suspended
+
+NARCOTICS VIOLATION- 210 Emmet St                                               202100005477/66
+Reported traffic stop, individual in possession of schedule i/ii drug, possession/ distribution of cocaine, possession of marijuana
+RPT: 1627 02-11-2021    OCC: 1627 02-11-21 to 2149 02-11-21
+Case Status: Arrest 
+
+ASSIST AGENCY/OTHER-1215 Lee St                                  202100005493/25
+Reported serving a EPO to a patient on behalf of Fluvanna County Sheriff Office                    
+RPT: 0041 02-12-2021    OCC: 0041 02-12-21 to 0113 02-12-21
+Case Status: Transferred to Other Agency 
+
+TRAFFIC ACCIDENT- Alderman Rd                                    202100005503/25
+Reported snow plow truck backing into light pole
+RPT: 0456 02-12-2021    OCC: 0430 02-12-21 to 0456 02-12-21
+Case Status: Suspended
+
+LARCENY- 500 Edgemont Rd                              202100005518/62
+Reported theft of an iPhone from a building
+RPT: 0931 02-12-2021    OCC: 0955 02-04-21 to 1445 02-04-21
+Case Status: Active
+
+ASSIST AGENCY/WARRANT- 1215 Lee St                          202100005526/58
+Reported assisting Albemarle Police with serving Violation of Parole warrant on individual     
+RPT: 1055 02-12-2021    OCC: 1055 02-04-21 to 1243 02-04-21
+Case Status: Active
+
+PROPERTY DAMAGE- 2420 Old Ivy Rd                          202100005530/55
+Reported damage to exterior window pane from snow removal machine
+RPT: 1159 02-12-2021    OCC: 0800 02-12-21 to 0800 02-12-21
+Case Status: Suspended
+
+LARCENY- 1815 Stadium Rd                              202100005714/56
+Reported theft of two UVA parking signs
+RPT: 0400 02-14-2021    OCC: 2350 02-13-21 to 0130 02-14-21
+Case Status: Active
+
+ASSIST CITIZEN/MEDICAL- 530 Buckler Dr                          202100005740/36
+Reported assisting an individual with heart palpitations and having trouble breathing
+RPT: 0437 02-14-2021    OCC: 0312 02-14-21 to 0330 02-14-21
+Case Status: Active
+
+ASSIST CITIZEN/MENTAL/ECO- 1215 Lee St                         202100005839/46
+Reported an individual in crisis, ECO obtained for evaluation
+RPT: 2302 02-14-2021    OCC: 2202 02-14-21 to 2210 02-14-21
+Case Status: Active
+    
+FOUND PROPERTY-1204 W Main St                              202100005909/44
+Reported a found firearm magazine and set of key fobs; placed into evidence
+RPT: 0722 02-15-2021    OCC: 0722 02-15-21 to 0846 02-15-21
+Case Status: Active
+    
+FOUND PROPERTY-1204 W Main St                              202100006049/44
+Reported found keyring with various ring, various grocery membership cards    
+RPT: 0803 02-16-2021    OCC: 0722 02-15-21 to 0846 02-15-21
+Case Status: Active
+
+FOUND PROPERTY-1700 University Ave                        202100006065/63
+Reported found leather wallet, VA learners permit, social security card inside    
+RPT: 1054 02-16-2021    OCC: 1000 02-16-21 to 1100 02-16-21
+Case Status: Active
+
+WIRE FRAUD-454 Farrish Cir                            202100006069/33
+Reported wire fraud through Venmo
+RPT: 1111 02-16-2021    OCC: 1700 10-22-20 to 1100 02-16-21
+Case Status: Active
+    
+ASSIST CITIZEN/MEDICAL-579 McCormick Rd                        202100006164/56
+Reported a citizen experiencing an allergic reaction     
+RPT: 0410 02-17-2021    OCC: 0127 02-17-21 to 0140 02-17-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MENTAL/TDO-579 McCormick Rd                    202100006177/56
+Reported a citizen in crisis transported to the medical center for assistance.     
+RPT: 0506 02-17-2021    OCC: 0256 02-17-21 to 0339 02-17-21
+Case Status: Suspended
+
+SEX OFFENSE/FORCIBLE FONDLING-1335 Lee St                           202100006213/63
+Reported an individual inappropriately touched during a patient transport     
+RPT: 1028 02-17-2021    OCC: 0900 02-17-21 to 1100 02-17-21
+Case Status: Active
+
+LARCENY-1215 Lee St                                202100006224/33
+Reported a theft of a temperature scanning device     
+RPT: 1353 02-17-2021    OCC: 1500 02-12-21 to 1825 02-14-21
+Case Status: Active
+    
+CURFEW VIOLATION/FIELD INVESTIGATION-1827 University Ave              202100006308/23
+Reported a citizen in violation of VA curfew order
+RPT: 0422 02-18-2021    OCC: 0127 02-17-21 to 0422 02-18-21
+Case Status: Suspended
+
+TRAFFIC ACCIDENT-11th Street                               202100006361/34
+Reported an accident involving two vehicles in the garage 
+RPT: 1730 02-18-2021    OCC: 1730 02-18-21 to 173002-18-21
+Case Status: Active
+
+FOUND PROPERTY-1215 Lee St                              202100006363/66
+Reported found firearm, five magazines and pistols; logged into safekeeping
+RPT: 1755 02-18-2021    OCC: 1755 02-18-21 to 1840 02-18-21
+Case Status: Suspended
+
+AGG.ASSAULT/STALKING/DOMESTIC VIOLENCE-1210 Lee St                         202100006372/34
+Reported a stalking with malicious intent to harm, damage to vehicle tire
+RPT: 1917 02-18-2021    OCC: 1910 02-18-21 to 2215 02-18-21
+Case Status: Active
+
+THREATS ON SOCIAL MEDIA-2304 Ivy Rd                          202100006373/100
+Reported threats over a social media App in response to COVID restrictions
+RPT: 1950 02-18-2021    OCC: 1400 02-18-21 to 1400 02-18-21
+Case Status: Active
+    
+ASSAULT/ VANDALISIM -1215 Lee St                        202100006480/34
+Reported a patient damaged property, threw an object hitting a nurse with it, charges possible 
+RPT: 1821 02-19-2021    OCC: 1750 02-19-21 to 1815 02-18-21
+Case Status: Active
+
+FIELD CONTACT/LITTERING-795 Alderman Rd                         20210006502/41
+Reported a small group of subjects throwing items from a balcony.  
+RPT: 2327 02-19-2021    OCC: 2327 02-19-21 to 2327 02-19-21
+Case Status: Suspended
+
+OBSCENE SEXUAL DISPLAY-1215 Lee St                          202100006451/55
+Reported obscene sexual display
+RPT: 1337 02-19-2021    OCC: 0800 02-17-21 to 1800 02-17-21
+Case Status: Arrest
+
+FIELD INVESTIGATION/CURFEW VIOLATION-795 Alderman Rd                   202100006397/23
+Reported two individuals out past curfew
+RPT: 2327 02-19-2021    OCC: 2327 02-19-21 to 2327 02-18-21
+Case Status: Suspended
+
+FIELD INVESTIGATION/CURFEW VIOLATION-1511 University Ave               202100006402/25
+Reported two individuals out past curfew 
+RPT: 0311 02-19-2021    OCC: 0311 02-19-21 to 0311 02-19-21
+Case Status: Suspended
+
+TRAFFIC STOP/ POSS OF NARCOTICS-795 Alderman Rd                    202100006518/25
+Reported individual failed to obey no-turn on red sign/ poss of marijuana
+RPT: 0334 02-20-2021    OCC: 0334 02-20-21 to 0358 02-20-21
+Case Status: Suspended
+
+ASSAULT-1215 Lee St                                              202100006526/72
+Reported assisting nurse struck by patient
+RPT: 0527 02-20-2021    OCC: 0527 02-20-21 to 0604 02-20-21
+Case Status: Suspended
+
+FOUND PROPERTY-200 Jeanette Lancaster Way                     202100006722/29
+Reported found bag with currency and identification retained to safekeeping for owner
+RPT: 1815 02-21-2021    OCC: 1805 02-21-21 to 2105 02-21-21
+Case Status: Suspended
+
+ASSAULT-1215 Lee St                                        202100006744/29
+Reported a past assault on medical staff by a patient no charges pending
+RPT: 2200 02-21-2021    OCC: 2142 02-21-21 to 2230 02-21-21
+Case Status: Active
+
+ASSIST CITIZEN/MEDICAL-2015 Stadium Rd                         202100006806/28
+Reported assisting individual with injury to ankle after falling on black ice                 
+RPT: 0723 02-22-2021    OCC: 0656 02-22-21 to 0717 02-22-21
+Case Status: Suspended
+
+EXPLICIT PHOTO-2304 Ivy Rd                             202100006812/102
+Reported explicit photographs found in online Anime chat group                     
+RPT: 0910 02-22-2021    OCC: 1243 02-18-21 to 1243 02-18-21
+Case Status: Suspended
+
+VANDALISIM-117 11TH SW                                     202100006814/33
+Reported a past vandalism/ keyed damage to individuals vehicle                             
+RPT: 0925 02-22-2021    OCC: 0800 02-15-21 to 1900 02-21-21
+Case Status: Active
+
+HIT AND RUN-1210 Lee St                                 202100006828/33
+Reported a hit and run in a parking garage                                 
+RPT: 1330 02-22-2021    OCC: 1300 02-22-21 to 1500 02-22-21
+Case Status: Active
+
+FOUND PROPERTY-1215 Lee St                             202100006831/63
+Reported found leather wallet with currency and Washington driver’s license             
+RPT: 1437 02-22-2021    OCC: 1400 02-22-21 to 1500 02-22-21
+Case Status: Active
+
+ASSIST CITIZEN/MEDICAL-1815 Stadium Rd                                         202100006966/48
+Reported assisting individual with injury to knee after falling on black ice                 
+RPT: 0829 02-23-2021    OCC: 0725 02-23-21 to 0725 02-23-21
+Case Status: Active
+
+ASSIST AGENCY/WARRANT-1215 Lee St                                         202100006968/33
+Reported assisting Madison County Sheriffs with a search warrant
+RPT: 0814 02-23-2021    OCC: 0810 02-23-21 to 0810 02-23-21
+Case Status: Transferred to other agency
+
+ASSIST CITIZEN/MENTAL/ECO -1815 Stadium Rd                              202100006975/44
+Reported an officer initiated ECO on an individual in crisis 
+RPT: 0955 02-23-2021    OCC: 0955 02-23-21 to 1203 02-23-21
+Case Status: Active
+
+ASSIST AGENCY/WARRANT-1215 Lee St                                           202100006981/63
+Reported assisting Nelson County Sheriffs with warrant service on an individual
+RPT: 1153 02-23-2021    OCC: 1130 02-23-21 to 1230 02-23-21
+Case Status: Active
+
+DRIVERS EXCHANGE-1210 Lee St                                                  202100006985/33
+Reported a drivers exchange of information        
+RPT: 1241 02-23-2021    OCC: 1241 02-23-21 to 1241 02-23-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL/FIELD INVESTIGATION-1210 Lee St                            202100006987/63
+Reported assisting an individual feeling dizzy
+RPT: 1309 02-23-2021    OCC: 1309 02-23-21 to 1309 02-23-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MENTAL/ECO-1215 Lee St                                      202100007006/73
+Reported an officer initiated ECO on an individual in crisis 
+RPT: 1706 02-23-2021    OCC: 1706 02-23-21 to 1830 02-23-21
+Case Status: Active
+
+LARCENY-1989 University Ave                                                 202100007010/26
+Reported theft of a backpack containing wallet with currency, a check, ID cards, keys, clothing
+RPT: 1819 02-23-2021    OCC: 1650 02-23-21 to 1919 02-23-21
+Case Status: Suspended
+
+LOITERING/FIELD INVESTIGATION-675 Old Reservoir Rd                        202100007033/74
+Reported contact with individual walking in area on grounds after hours
+RPT: 2101 02-23-2021    OCC: 2101 02-23-21 to 2101 02-23-21
+Case Status: Suspended
+
+ASSIST CITIZEN/MEDICAL-478 Floyd Dr                                         202100007106/28
+Reported assisting individual with possible appendicitis                 
+RPT: 0619 02-24-2021    OCC: 0602 02-24-21 to 0619 02-24-21
+Case Status: Suspended
+
+VIOLATION EXECUTIVE ORDER-Park Ave & Brandon Ave.1215 Lee St                   202100007210/47
+Reported Curfew violation                 
+RPT: 0059 02-25-2021    OCC: 0059 02-25-21 to 0103 02-25-21
+Case Status: Suspended
+
+FOUND PROPERTY -1215 Lee St                                        202100007211/28
+Reported found container of green leafy substance                  
+RPT: 0150 02-25-2021    OCC: 0059 02-25-21 to 0149 02-25-21
+Case Status: Suspended
+
+VIOLATION EXECUTIVE ORDER/FIELD CONTACT-525 McCormick Rd             202100007226/23
+Reported multiple individuals violating curfew                  
+RPT: 0241 02-25-2021    OCC: 0241 02-25-21 to 0241 02-25-21
+Case Status: Suspended
+
+ASSIST AGENCY/WARRANT-1215 Lee St                                      202100007385/72
+Reported assisting Waynesboro Police with warrant service; temporary detention of individual                  
+RPT: 0718 02-26-2021    OCC: 0718 02-26-21 to 0830 02-26-21
+Case Status: Transferred to Other Agency
+
+WELFARE CHECK/FIELD INVESTIGATION-1215 Lee St                     02100007391/61
+Reported a welfare check on an individual not complying with mask order/ making statements of self-harm
+RPT: 0911 02-26-2021    OCC: 0911 02-26-21 to 0911 02-26-21
+Case Status: Suspended
+
+ASSIST AGENCY/BACKUP-525 McCormick Rd                             202100007393/55
+Reported assisting Charlottesville Fire with unlocking vehicle with infant and animals inside 
+RPT: 0917 02-26-2021    OCC: 0900 02-26-21 to 0925 02-26-21
+Case Status: Active
+
+LOST PROPERTY/FIELD INVESTIGATION-1215 Lee St                     202100007406/61
+Reported a lost backpack; recovered and returned to individual
+RPT: 1151 02-26-2021    OCC: 1151 02-26-21 to 1151 02-26-21
+Case Status: Suspended
+
+PEEPING TOM-579 McCormick Rd                                  202100007449/23
+Reported an individual peeping into a personal space occupied by another person                 
+RPT: 0044 02-27-2021    OCC: 0010 02-27-21 to 0030 02-27-21
+Case Status: Suspended
+
+PARKING VIOLATION/FIELD INVESTIGATION-500 Monroe Ln                  202100007490/61
+Reported a vehicle parked in fire lane
+RPT: 1013 02-27-2021    OCC: 1013 02-27-21 to 1013 02-27-21
+Case Status: Suspended
+
+ASSIST AGENCY/K9 SEARCH- 400 E. Main St                          202100007494/63
+Reported an assist to Charlottesville Police with a K9 search                       
+RPT: 1106 02-27-2021    OCC: 1100 02-27-21 to 1220 02-28-21
+Case Status: Transferred to Other Agency
+
+ASSIST CITIZEN/MENTAL-440 McCormick Rd                             202100007500/41
+Reported an individual in crisis voluntarily transported to UVA ER.                 
+RPT: 1157 02-27-2021    OCC: 1143 02-27-21 to 1300 02-27-21
+Case Status: Suspended
+
+ASSIST AGENCY/TEMPORARTY DETENTION/WARRANT SERVICE/-1404 Jefferson Park Ave    202100007542/66
+Reported an assist to Portsmouth Sheriff’s Office in the arrest of an individual              
+RPT: 2038 02-27-2021    OCC: 2038 02-27-21 to 0021 02-28-21
+Case Status: Transferred to Other Agency
+
+TRAFFIC STOP/ FIELD INVESTIGATION-1517 University Ave                 202100007549/47
+Reported individual blocking roadway                 
+RPT: 0054 02-28-2021    OCC: 0054 02-28-21 to 0054 02-28-21
+Case Status: Suspended
+
+ASSIST CITIZEN/FIELD INVESTIGATION-1215 Lee St                     202100007605/61
+Reported assisting patient with safekeeping of a knife at UVA Hospital             
+RPT: 1233 02-28-2021    OCC: 1233 02-28-21 to 1233 02-28-21
+Case Status: Suspended
+
+TRAFFIC STOP/FIELD INVESTIGATION-W Main St                     202100007617/66
+Reported expired registration 
+RPT: 1711 02-28-2021    OCC: 1711 02-28-21 to 1711 02-28-21
+Case Status: Suspended
